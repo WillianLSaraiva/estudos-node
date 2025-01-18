@@ -1,0 +1,23 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "Estudos de desenvolvimento Web",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WillianLSaraiva/estudos-node.git"
+  },
+  "author": "Willian L Saraiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WillianLSaraiva/estudos-node/issues"
+  },
+  "homepage": "https://github.com/WillianLSaraiva/estudos-node#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
